@@ -1,3 +1,41 @@
+<div align="center">
+
+# 🚀 Safer Web Scraper
+
+**A Python web scraping automation toolkit for extracting carrier and logistics data from FMCSA SAFER web systems using Selenium and Jupyter notebooks.**
+
+Documented · MIT licensed · Maintained
+
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter Notebook-Latest-555555?style=for-the-badge)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+[![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
+
+[Features](#-features) · [Quick Start](#-quick-start) · [Screenshots](#-screenshots) · [Contributing](CONTRIBUTING.md)
+
+</div>
+
+---
+
+## 🖼 Screenshots
+
+![Safer Web Scraper screenshot](docs/screenshots/placeholder.svg)
+
+*Replace `docs/screenshots/placeholder.svg` with real app screenshots.*
+
+---
+
+## 🐍 Contribution graph
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/safer-web-scraper/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/safer-web-scraper/output/snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mafzalkalwardev/safer-web-scraper/output/snake.svg" />
+</picture>
+
+
+---
+
 \# SAFER Web Scraper
 
 
