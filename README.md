@@ -10,22 +10,11 @@ Documented · MIT licensed · Maintained
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 [![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
 
-[Features](#-features) · [Quick Start](#-quick-start) · [Screenshots](#-screenshots) · [Contributing](CONTRIBUTING.md)
-
 </div>
 
 ---
 
-## 🖼 Screenshots
-
-![Safer Web Scraper screenshot](docs/screenshots/placeholder.svg)
-
-*Replace `docs/screenshots/placeholder.svg` with real app screenshots.*
-
----
-
 ## 🐍 Contribution graph
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/safer-web-scraper/output/snake-dark.svg" />
@@ -33,28 +22,17 @@ Documented · MIT licensed · Maintained
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/mafzalkalwardev/safer-web-scraper/output/snake.svg" />
 </picture>
 
-
 ---
 
 \# SAFER Web Scraper
 
-
-
 A Python web scraping automation toolkit for extracting carrier and logistics data from FMCSA SAFER web systems.
-
-
 
 The project includes Selenium automation and Jupyter notebook workflows for scraping carrier information, processing datasets, and automating logistics research tasks.
 
-
-
 \## Screenshots
 
-![safer-web-scraper dashboard](docs/screenshots/app.png)
-
 ## Features
-
-
 
 \- Web scraping automation
 
@@ -72,11 +50,7 @@ The project includes Selenium automation and Jupyter notebook workflows for scra
 
 \- Data collection tools
 
-
-
 \## Tech Stack
-
-
 
 \- Python
 
@@ -88,11 +62,7 @@ The project includes Selenium automation and Jupyter notebook workflows for scra
 
 \- Web Scraping
 
-
-
 \## Project Structure
-
-
 
 ```text
 
@@ -110,15 +80,9 @@ safer-web-scraper/
 
 ```
 
-
-
 \## Installation
 
-
-
 Install required packages:
-
-
 
 ```bash
 
@@ -126,15 +90,9 @@ pip install selenium pandas notebook
 
 ```
 
-
-
 \## How to Run
 
-
-
 Start Jupyter Notebook:
-
-
 
 ```bash
 
@@ -142,11 +100,7 @@ jupyter notebook
 
 ```
 
-
-
 Then open:
-
-
 
 ```text
 
@@ -154,11 +108,7 @@ scrapp.ipynb
 
 ```
 
-
-
 or
-
-
 
 ```text
 
@@ -166,39 +116,21 @@ WebScrapping-saferweb.ipynb
 
 ```
 
-
-
 \## Features Overview
-
-
 
 \### SAFER Web Scraping
 
-
-
 Automates carrier and MC-related data extraction.
-
-
 
 \### Selenium Automation
 
-
-
 Uses browser automation for interacting with dynamic websites.
-
-
 
 \### Data Processing
 
-
-
 Supports CSV and Excel-based workflows.
 
-
-
 \## Use Cases
-
-
 
 \- Carrier research
 
@@ -210,11 +142,7 @@ Supports CSV and Excel-based workflows.
 
 \- Lead generation
 
-
-
 \## Security Note
-
-
 
 Do not upload:
 
@@ -224,17 +152,10 @@ Do not upload:
 
 \- confidential scraped information
 
-
-
 \## Author
 
-
-
 Muhammad Afzal Kalwar
-
-
 
 GitHub:
 
 @mafzalkalwardev
-
