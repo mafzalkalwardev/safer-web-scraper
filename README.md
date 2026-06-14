@@ -32,6 +32,10 @@ The project includes Selenium automation and Jupyter notebook workflows for scra
 
 \## Screenshots
 
+## Screenshots
+
+![Application screenshot](docs/screenshots/app.png)
+
 ## Features
 
 \- Web scraping automation
