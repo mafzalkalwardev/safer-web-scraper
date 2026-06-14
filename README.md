@@ -48,7 +48,11 @@ The project includes Selenium automation and Jupyter notebook workflows for scra
 
 
 
-\## Features
+\## Screenshots
+
+![safer-web-scraper dashboard](docs/screenshots/app.png)
+
+## Features
 
 
 
