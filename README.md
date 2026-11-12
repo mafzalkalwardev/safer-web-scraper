@@ -17,20 +17,18 @@ Documented · MIT licensed · Maintained
 ## 🐍 Contribution graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/safer-web-scraper/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/safer-web-scraper/output/snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mafzalkalwardev/safer-web-scraper/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/safer-web-scraper/gh-pages/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/safer-web-scraper/gh-pages/output/snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mafzalkalwardev/safer-web-scraper/gh-pages/output/snake.svg" />
 </picture>
 
 ---
 
-\# SAFER Web Scraper
 
 A Python web scraping automation toolkit for extracting carrier and logistics data from FMCSA SAFER web systems.
 
 The project includes Selenium automation and Jupyter notebook workflows for scraping carrier information, processing datasets, and automating logistics research tasks.
 
-\## Screenshots
 
 ## Screenshots
 
@@ -38,125 +36,94 @@ The project includes Selenium automation and Jupyter notebook workflows for scra
 
 ## Features
 
-\- Web scraping automation
+- Web scraping automation
+- FMCSA SAFER scraping
+- Selenium browser automation
+- Carrier data extraction
+- Jupyter notebook workflows
+- CSV and Excel processing
+- Logistics automation
+- Data collection tools
 
-\- FMCSA SAFER scraping
+## Tech Stack
 
-\- Selenium browser automation
+- Python
+- Selenium
+- Pandas
+- Jupyter Notebook
+- Web Scraping
 
-\- Carrier data extraction
-
-\- Jupyter notebook workflows
-
-\- CSV and Excel processing
-
-\- Logistics automation
-
-\- Data collection tools
-
-\## Tech Stack
-
-\- Python
-
-\- Selenium
-
-\- Pandas
-
-\- Jupyter Notebook
-
-\- Web Scraping
-
-\## Project Structure
+## Project Structure
 
 ```text
-
 safer-web-scraper/
 
 │
-
 ├── scrapp.ipynb
-
 ├── WebScrapping-saferweb.ipynb
-
 ├── README.md
-
 └── .gitignore
-
 ```
 
-\## Installation
+## Installation
 
 Install required packages:
 
 ```bash
-
 pip install selenium pandas notebook
-
 ```
 
-\## How to Run
+## How to Run
 
 Start Jupyter Notebook:
 
 ```bash
-
 jupyter notebook
-
 ```
 
 Then open:
 
 ```text
-
 scrapp.ipynb
-
 ```
 
 or
 
 ```text
-
 WebScrapping-saferweb.ipynb
-
 ```
 
-\## Features Overview
+## Features Overview
 
-\### SAFER Web Scraping
+### SAFER Web Scraping
 
 Automates carrier and MC-related data extraction.
 
-\### Selenium Automation
+### Selenium Automation
 
 Uses browser automation for interacting with dynamic websites.
 
-\### Data Processing
+### Data Processing
 
 Supports CSV and Excel-based workflows.
 
-\## Use Cases
+## Use Cases
 
-\- Carrier research
+- Carrier research
+- Logistics automation
+- Dispatch workflows
+- Data extraction
+- Lead generation
 
-\- Logistics automation
-
-\- Dispatch workflows
-
-\- Data extraction
-
-\- Lead generation
-
-\## Security Note
+## Security Note
 
 Do not upload:
 
-\- private datasets
+- private datasets
+- sensitive records
+- confidential scraped information
 
-\- sensitive records
-
-\- confidential scraped information
-
-\## Author
+## Author
 
 Muhammad Afzal Kalwar
 
